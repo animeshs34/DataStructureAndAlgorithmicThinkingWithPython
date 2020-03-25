@@ -18,7 +18,7 @@ def function(n):
 			break
 			j = j * 2
 			count = count + 1
-
+			
 	print (count)
 
 function(20)
